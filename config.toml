@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'LOLCODE Documentation' 
+theme = 'book' 
+[params] 
+BookSearch = true
